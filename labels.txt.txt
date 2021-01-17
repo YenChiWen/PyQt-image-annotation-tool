@@ -1,0 +1,8 @@
+Smoking
+Phone
+OpenMouth
+CloseEye
+Cover
+NoDriver
+Normal
+Skip
